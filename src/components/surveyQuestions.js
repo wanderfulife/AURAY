@@ -95,7 +95,7 @@ export const templateSurveyQuestions = [
     // Q3a' - Parking duration for train passengers
     {
         id: "Q3A_PRIME_MONTANTS_TRAIN",
-        text: "Combien de temps allez-vous laisser votre voiture stationnée ?",
+        text: "Combien de temps allez-vous laisser votre véhicule stationné ?",
         type: 'singleChoice',
         options: [
             { id: 1, text: "Moins de 2 heures", next: "Q4_MONTANTS_TRAIN" },
@@ -343,7 +343,7 @@ export const templateSurveyQuestions = [
     // Q3a' - Parking duration for bus/car passengers
     {
         id: "Q3A_PRIME_MONTANTS_CAR",
-        text: "Combien de temps allez-vous laisser votre voiture stationnée ?",
+        text: "Combien de temps allez-vous laisser votre véhicule stationnée ?",
         type: 'singleChoice',
         options: [
             { id: 1, text: "Moins de 2 heures", next: "Q4_MONTANTS_CAR" },
