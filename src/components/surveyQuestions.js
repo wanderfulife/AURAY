@@ -117,10 +117,9 @@ export const templateSurveyQuestions = [
             { id: 2, text: "Ligne BreizhGo n°5 (Baud-Auray-Vannes)", next: "Q4_MONTANTS_TRAIN" },
             { id: 3, text: "Ligne BreizhGo n°6 (Baden-Auray)", next: "Q4_MONTANTS_TRAIN" },
             { id: 4, text: "Ligne BreizhGo n°18 (Belz-Auray)", next: "Q4_MONTANTS_TRAIN" },
-            { id: 5, text: "Ligne de car scolaire", next: "Q4_MONTANTS_TRAIN" },
-            { id: 6, text: "Auray Bus -- ligne rouge", next: "Q4_MONTANTS_TRAIN" },
-            { id: 7, text: "Auray Bus -- ligne jaune", next: "Q4_MONTANTS_TRAIN" },
-            { id: 8, text: "Autre", next: "Q3B_AUTRE_MONTANTS_TRAIN" }
+            { id: 5, text: "Auray Bus -- ligne rouge", next: "Q4_MONTANTS_TRAIN" },
+            { id: 6, text: "Auray Bus -- ligne jaune", next: "Q4_MONTANTS_TRAIN" },
+            { id: 7, text: "Autre", next: "Q3B_AUTRE_MONTANTS_TRAIN" }
         ]
     },
 
